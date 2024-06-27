@@ -1,0 +1,22 @@
+body {
+  min-width: 400px;
+  min-height: 200px;
+  background-color: #000;
+}
+
+#msg {
+  color: #0F0;
+  margin: 10px;
+  padding: 20px;
+  font-size: xx-large;
+  font-family: monospace;
+  align-content: center;
+  text-align: center;
+}
+
+#key {
+  font-family: monospace;
+  font-weight: bold;
+  color: #FFF;
+  text-align: right;
+}
